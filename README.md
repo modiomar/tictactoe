@@ -5,4 +5,4 @@ If so, follow these simple steps:
 - to run the game, run the following command: python runner.py
 - enjoy!
 
-The AI algorithm used here is a MinMax Adversarial Search Algorithm
+The AI algorithm used here is a Minimax Adversarial Search Algorithm
